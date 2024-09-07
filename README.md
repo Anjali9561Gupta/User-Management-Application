@@ -20,7 +20,8 @@ This is a simple CRUD (Create, Read, Update, Delete) application built using Rea
 
 **8. Routing with React Router v6:** The app uses React Router for navigation between different views.
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
+
 <ul>
 <li>React.js with TypeScript</li>
 <li>React Router v6 for routing</li>
@@ -34,6 +35,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application built using Rea
 **1. Clone the repository:**
 
 bash
+
 git clone https://github.com/Anjali9561Gupta/User-Management-Application.git
 
 cd user-management-app
@@ -45,6 +47,7 @@ npm install
 **3. Start the application:**
 
 bash
+
 npm start
 
 **4. Open your browser and navigate to http://localhost:3000.**
