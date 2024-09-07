@@ -35,14 +35,16 @@ This is a simple CRUD (Create, Read, Update, Delete) application built using Rea
 
 bash
 git clone https://github.com/Anjali9561Gupta/User-Management-Application.git
+
 cd user-management-app
 
 **2. Install dependencies:**
 
 npm install
 
-**4. Start the application:**
+**3. Start the application:**
 
 bash
 npm start
+
 **4. Open your browser and navigate to http://localhost:3000.**
